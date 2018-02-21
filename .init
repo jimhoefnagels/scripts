@@ -1,0 +1,3 @@
+echo "creating symlinks"
+ln -sf ~/scripts/switch_profile ~/switch_profile
+ln -sf ~/scripts/Spotify_Install ~/Spotify_Install
